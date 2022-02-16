@@ -52,3 +52,27 @@
 .table-row td {
   border: 2px solid;
 }
+
+footer {
+  display: flex;
+  background-color: gray;
+  bottom: 0;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10em;
+  height: 50px;
+}
+
+footer div a {
+  padding: 4em;
+}
+
+.cleonte {
+  color: orange;
+}
+.covielle {
+  color: purple;
+}
+.monsieur-jordain {
+  color: red;
+}
