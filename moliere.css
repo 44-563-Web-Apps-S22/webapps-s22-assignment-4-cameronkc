@@ -20,7 +20,7 @@
 }
 
 .music-master {
-  color: lavender;
+  color: rgb(44, 8, 8);
 }
 
 .dancing-master {
@@ -29,4 +29,26 @@
 
 .pupil {
   color: lightpink;
+}
+
+.my-table {
+  text-align: center;
+  width: 500px;
+}
+
+.table-title {
+  font-size: 1.5em;
+}
+
+.table-title th {
+  border: 1px solid;
+}
+
+.table-row {
+  border: 1px solid black;
+  font-size: 0.8em;
+}
+
+.table-row td {
+  border: 2px solid;
 }
