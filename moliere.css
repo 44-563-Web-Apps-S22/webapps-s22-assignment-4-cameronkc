@@ -1,0 +1,32 @@
+.speech {
+  font-size: 1em;
+  color: black;
+}
+
+.direction {
+  background-color: lightblue;
+  font-size: 1.3em;
+  color: black;
+}
+
+.direction:hover {
+  background-color: blue;
+  color: gray;
+}
+
+.name {
+  font-size: 1.5em;
+  color: black;
+}
+
+.music-master {
+  color: lavender;
+}
+
+.dancing-master {
+  color: mediumpurple;
+}
+
+.pupil {
+  color: lightpink;
+}
